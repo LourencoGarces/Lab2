@@ -1,0 +1,70 @@
+/* Styles for the "Finish Task" button */
+.terminar_tarefa {
+    padding: 10px 20px; /* Padding */
+    font-size: 16px; /* Font size */
+    position: absolute; /* Absolute positioning */
+    top: 10px; /* Distance from the top */
+    right: 20px; /* Distance from the right */
+}
+
+/* Styles for the "Manage Profile" button */
+.gerir_perfil {
+    padding: 10px 20px; /* Padding */
+    font-size: 16px; /* Font size */
+    position: absolute; /* Absolute positioning */
+    top: 10px; /* Distance from the top */
+    right: 180px; /* Distance from the right */
+}
+
+/* Styles for the profile image */
+.img_perfil {
+    width: 90%; /* Width */
+    height: auto; /* Automatic height */
+    margin: 50px 0; /* Top and bottom margins */
+    display: block; /* Block element */
+    margin-left: auto; /* Automatic left margin */
+    margin-right: auto; /* Automatic right margin */
+}
+
+/* Styles for the user greeting */
+.cumprimento_user {
+    text-align: center; /* Center alignment */
+    margin-top: 150px; /* Top margin */
+}
+
+/* Styles for the "My Tasks" title */
+.minhas_tarefas {
+    text-align: center; /* Center alignment */
+    margin: 10px; /* Margins */
+}
+
+/* Styles for the "+ New Task" button */
+.nova_tarefa {
+    text-align: center; /* Center alignment */
+    margin: 10px; /* Margins */
+}
+
+/* Styles for the task description input */
+.descricao {
+    width: 100%; /* Full width */
+    height: 100px; /* Height */
+}
+
+/* Styles for the "Save" button */
+.gravar {
+    width: 100%; /* Full width */
+}
+
+/* Styles for the footer */
+footer {
+    background-color: #f2f2f2; /* Background color */
+    text-align: center; /* Center alignment */
+    position: fixed; /* Fixed position */
+    width: 100%; /* Full width */
+    bottom: 0; /* Distance from the bottom */
+}
+
+/* Styles for the paragraph inside the footer */
+footer p {
+    margin-right: 80%; /* Right margin */
+}

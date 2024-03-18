@@ -1,0 +1,50 @@
+/* Styles for the back button */
+.back-button {
+    margin: 20px; /* Margin to create spacing around the button */
+}
+
+/* Styles for input fields of type "textboox" (typo: should be "textbox") */
+input[type="textboox"] {
+    width: 100%; /* Full width for responsiveness */
+    margin: 8px 0; /* Margin for spacing between input fields */
+    display: inline-block; /* Display as inline block */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+/* Styles for input fields of type "email" */
+input[type="email"] {
+    width: 100%; /* Full width for responsiveness */
+    margin: 8px 0; /* Margin for spacing between input fields */
+    display: inline-block; /* Display as inline block */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+/* Styles for images */
+img {
+    width: 40%; /* Set width to 40% of its containing block */
+    height: auto; /* Automatically adjust height to maintain aspect ratio */
+    margin: 8px 0; /* Margin for spacing */
+    display: block; /* Display as block element */
+    margin-left: auto; /* Center horizontally by setting left margin to auto */
+    margin-right: auto; /* Center horizontally by setting right margin to auto */
+}
+
+/* Styles for the "Gravar" button */
+.gravar {
+    width: 40%; /* Set width to 40% of its containing block */
+    margin-bottom: 20px; /* Margin at the bottom for spacing */
+}
+
+/* Styles for the footer */
+footer {
+    background-color: #f2f2f2; /* Background color for the footer */
+    text-align: center; /* Center-align the text inside the footer */
+    position: fixed; /* Fix the footer position at the bottom of the viewport */
+    width: 100%; /* Full width for responsiveness */
+    bottom: 0; /* Set distance from the bottom of the viewport */
+}
+
+/* Styles for paragraph inside the footer */
+footer p {
+    margin-right: 80%; /* Margin to push paragraph towards the left within the footer */
+}
