@@ -3,6 +3,11 @@
     margin: 20px; /* Margin to create spacing around the button */
 }
 
+/* Styles for center in the column*/
+.perfil{
+    margin-top: 15%; /* Margin to create spacing top the title and form*/
+}
+
 /* Styles for input fields of type "textboox" (typo: should be "textbox") */
 input[type="textboox"] {
     width: 100%; /* Full width for responsiveness */
